@@ -6,7 +6,7 @@
 [![PyPI](https://img.shields.io/badge/pypi-v0.1.0-blue)](https://pypi.org/project/chunk-factory/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-Usage.md-blue.svg)](Usage.md)
-[![GitHub stars](https://img.shields.io/github/stars/hjandlm/Chunk-Factory?style=social)](https://github.com/hjandlm/Chunk-Factory/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/AgBigdataLab/Chunk-Factory?style=social)](https://github.com/AgBigdataLab/Chunk-Factory/stargazers)
 
 _Chunk-Factory is a fast, efficient text chunking library with real-time evaluation._
 
